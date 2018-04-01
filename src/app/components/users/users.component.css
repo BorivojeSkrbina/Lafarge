@@ -55,6 +55,7 @@ section {
 .work p,
 .estimated p {
     margin-bottom: 10px;
+    font-weight: 500;
 }
 
 .work span {
