@@ -1,0 +1,10 @@
+<div style="text-align:center; margin-top:20px">
+<button (click)="showNotifications = !showNotifications">Show Notifications</button>
+</div>
+<!-- NOTIFICATIONS -->
+<ul *ngIf="showNotifications">
+  <li *ngFor="let notification of notifications">
+    <img [src]="notification.icon" alt="">
+    <span>{{ notification.text }}</span>
+  </li>
+</ul>

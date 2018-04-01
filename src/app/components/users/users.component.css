@@ -1,0 +1,99 @@
+/* ALL SECTIONS */
+section {
+    padding: 30px 0;
+    border-bottom: 1px solid #dcdcdc;
+}
+
+/* HEADER */
+.header {
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.header img {
+    height: 40px;
+}
+
+/* USER SECTION */
+.user {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 1px solid #00a86d;
+    padding: 4px;
+}
+
+.user div {
+    margin-left: 10px;
+}
+
+.user h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.user p {
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+/* WORK SECTION */
+.work {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.work p,
+.estimated p {
+    margin-bottom: 10px;
+}
+
+.work span {
+font-size: 20px;
+font-weight: 500;
+color: #00a86d;
+}
+
+.work {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+/* ESTIMATED SECTION */
+.estimated > div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.estimated span {
+    font-size: 60px;
+    font-weight: 500;
+    color: #00a86d;
+}
+
+.progress-bar {
+    height: 10px;
+    border-radius: 5px;
+    background-color: #d5d5d5;
+    margin-top: 15px;
+}
+
+.progress-bar span {
+    height: 10px;
+    border-radius: 5px;
+    background-color: #00a86d;
+    width: 57%;
+}

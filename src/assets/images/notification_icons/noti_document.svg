@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="23px" viewBox="0 0 19 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="2.3-notification" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1134.000000, -266.000000)" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-8-Copy" transform="translate(1135.000000, 267.000000)" stroke="#00A86D" stroke-width="2">
+            <path d="M10.5,0 L2.1,0 C0.940202025,0 0,0.940202025 0,2.1 L0,18.9 C0,20.059798 0.940202025,21 2.1,21 L14.7,21 C15.859798,21 16.8,20.059798 16.8,18.9 L16.8,6.3 L10.5,0 Z" id="Shape"></path>
+            <polyline id="Shape" points="10.5 0 10.5 6.3 16.8 6.3"></polyline>
+            <path d="M12.6,11.55 L4.2,11.55" id="Shape"></path>
+            <path d="M12.6,15.75 L4.2,15.75" id="Shape"></path>
+            <polyline id="Shape" points="6.3 7.35 5.25 7.35 4.2 7.35"></polyline>
+        </g>
+    </g>
+</svg>
